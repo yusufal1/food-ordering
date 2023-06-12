@@ -50,7 +50,7 @@ const Footer = () => {
         </div>
         <div className="md:flex-1">
           <div>
-            <Title className="text-3xl">Openin Hours</Title>
+            <Title className="text-3xl">Opening Hours</Title>
             <div className="flex flex-col gap-y-2 mt-4">
               <div>
                 <span className="inline-block ml-2">Everyday</span>
